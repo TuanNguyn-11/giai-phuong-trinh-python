@@ -102,7 +102,7 @@ python main_ui.py
 
 ## 👤 Tác giả
 
-- **Nguyễn Trọng Nhân**
+- **Phan Ngọc Tuấn Nguyên**
 - Sinh viên Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE)
 - Khoa Điện - Điện Tử
 
